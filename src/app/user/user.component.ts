@@ -37,7 +37,7 @@ export class UserComponent implements OnInit {
   }
 
   ngOnInit() {
-    this.search('greatdaniels');
+    this.search('ShazzKimani');
   }
 
 }

@@ -15,7 +15,7 @@ export class ServiceService {
 
   constructor(private http:HttpClient) { 
     this.users = new User("","","",0,"",new Date);
-    this.repos = new Repo("","","","",new Date);
+    // this.repos = new Repo("","","","",new Date);
   }
 
   getUser(search: string) {
