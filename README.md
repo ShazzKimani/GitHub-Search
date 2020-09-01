@@ -9,7 +9,7 @@ By Sharon Kimani.
 This is a single page application for searching github users and repositories. The site uses the Github API to perform searches on Github, and display the results to the users.
 ## Live Link
 
-
+https://shazzkimani.github.io/GitHub-Search/
 
 ## Development server
 
